@@ -1,5 +1,5 @@
 
-# Self-Improving Tutor Agent
+# Self-Improving Math Tutor
 
 This project is an adaptive tutoring agent designed to provide a personalized learning experience for students. The agent diagnoses misunderstandings, adjusts the difficulty and style of teaching, and tracks progress over time. It uses a data-driven approach to optimize lesson plans and improve learning outcomes.
 
