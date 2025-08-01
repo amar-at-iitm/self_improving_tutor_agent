@@ -1,0 +1,56 @@
+[
+  {
+    "id": "calc001",
+    "kc": "Limits",
+    "question": "What is the limit of (x^2 - 1)/(x - 1) as x approaches 1?",
+    "answer": 2
+  },
+  {
+    "id": "calc002",
+    "kc": "Derivatives",
+    "question": "What is the derivative of x^2?",
+    "answer": "2x"
+  },
+  {
+    "id": "calc003",
+    "kc": "Derivatives",
+    "question": "What is the derivative of 3x^3 - 2x + 5?",
+    "answer": "9x^2 - 2"
+  },
+  {
+    "id": "calc004",
+    "kc": "Integrals",
+    "question": "What is the integral of 2x dx?",
+    "answer": "x^2"
+  },
+  {
+    "id": "calc005",
+    "kc": "Limits",
+    "question": "What is the limit of 5 as x approaches 3?",
+    "answer": 5
+  },
+  {
+    "id": "calc006",
+    "kc": "Derivatives",
+    "question": "Using the power rule, find the derivative of x^4.",
+    "answer": "4x^3"
+  },
+  {
+    "id": "calc007",
+    "kc": "Integrals",
+    "question": "What is the integral of 3x^2 dx?",
+    "answer": "x^3"
+  },
+  {
+    "id": "calc008",
+    "kc": "Chain Rule",
+    "question": "What is the derivative of (2x+1)^2?",
+    "answer": "4(2x+1)"
+  },
+  {
+    "id": "calc009",
+    "kc": "Chain Rule",
+    "question": "Find the derivative of sin(3x).",
+    "answer": "3cos(3x)"
+  }
+]
